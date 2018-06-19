@@ -145,7 +145,7 @@ Dorks types
 """""""""""
 Various combinations words and letters will give good result.
 
-Where ``A`` is letter, ``W`` is word, ``N`` is number and ``U`` is unicode characted (emoji)
+Where ``A`` is letter, ``W`` is word, ``N`` is number and ``U`` is unicode character (emoji)
 
 space dorks
 ************
@@ -256,5 +256,5 @@ Getting started
 
 
 
-Join our community in `Telegram <https://t.me/invalidChat>`_ and ask questions and suggest ideas. 
+Join our community in `Telegram <https://t.me/invalidChat>`_ ask questions and suggest ideas. 
 
